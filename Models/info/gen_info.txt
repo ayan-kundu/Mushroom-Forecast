@@ -1,0 +1,2 @@
+XGBregressor multioutput regression:-
+https://forecastegy.com/posts/xgboost-multi-output-regression-python/#making-predictions
