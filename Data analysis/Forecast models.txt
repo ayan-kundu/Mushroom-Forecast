@@ -1,0 +1,13 @@
+Options to deal with Time series:---
+
+Stat:GPR,RTBoosting, XRT ,ARIMA/ARMA
+ML: Random forest
+DL: RNN
+
+
+Examples:-
+ARIMA implementation:
+https://www.youtube.com/watch?v=8FCDpFhd1zk
+
+RNN implementation:
+https://www.datacamp.com/tutorial/tutorial-for-recurrent-neural-network
