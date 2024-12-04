@@ -1,0 +1,11 @@
+Things to sort with the sensor system box-
+
+1. Holes and outlets for wires, connections, charging ports and switches
+2. Check push switch is triggering ok 
+3. Checking sensor functions and its reading written down to the SD card on push 
+4. Writing down all three sesnor data on push at once 
+
+Additional chores:
+1. Clip to fit into the SD window
+2. Charging ports and chargers  
+3. Printing the probe holder with 
