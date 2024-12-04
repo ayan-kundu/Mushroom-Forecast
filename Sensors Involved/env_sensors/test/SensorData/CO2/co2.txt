@@ -1,0 +1,54 @@
+
+Tunnel co2:: 1318ppm
+
+
+17:16:29.226 -> /n
+17:16:38.961 -> Incoming sensorstring complete!
+17:16:39.031 -> CO2 in ppm:1323  which is High
+17:16:39.038 -> /n
+17:16:48.780 -> Incoming sensorstring complete!
+17:16:48.849 -> CO2 in ppm:1337  which is High
+17:16:48.850 -> /n
+17:16:58.634 -> Incoming sensorstring complete!
+17:16:58.706 -> CO2 in ppm:1332  which is High
+17:16:58.710 -> /n
+17:17:08.451 -> Incoming sensorstring complete!
+17:17:08.523 -> CO2 in ppm:1328  which is High
+17:17:08.525 -> /n
+17:17:18.268 -> Incoming sensorstring complete!
+17:17:18.331 -> CO2 in ppm:1330  which is High
+17:17:18.369 -> /n
+17:17:28.120 -> Incoming sensorstring complete!
+17:17:28.194 -> CO2 in ppm:1358  which is High
+17:17:28.198 -> /n
+17:17:37.953 -> Incoming sensorstring complete!
+17:17:38.010 -> CO2 in ppm:1361  which is High
+17:17:38.029 -> /n
+17:17:47.775 -> Incoming sensorstring complete!
+17:17:47.844 -> CO2 in ppm:1359  which is High
+17:17:47.849 -> /n
+17:17:57.592 -> Incoming sensorstring complete!
+17:17:57.663 -> CO2 in ppm:1374  which is High
+17:17:57.663 -> /n
+17:18:07.439 -> Incoming sensorstring complete!
+17:18:07.508 -> CO2 in ppm:1378  which is High
+17:18:07.512 -> /n
+17:18:17.272 -> Incoming sensorstring complete!
+17:18:17.337 -> CO2 in ppm:1359  which is High
+17:18:17.348 -> /n
+17:18:27.103 -> Incoming sensorstring complete!
+17:18:27.175 -> CO2 in ppm:1317  which is High
+17:18:27.181 -> /n
+17:15:49.865 -> CO2 in ppm:1248  which is High
+17:15:49.866 -> /n
+17:15:59.627 -> Incoming sensorstring complete!
+17:15:59.698 -> CO2 in ppm:1239  which is High
+17:15:59.698 -> /n
+17:16:09.457 -> Incoming sensorstring complete!
+17:16:09.527 -> CO2 in ppm:1266  which is High
+17:16:09.527 -> /n
+17:16:19.303 -> Incoming sensorstring complete!
+17:16:19.370 -> CO2 in ppm:1276  which is High
+17:16:19.378 -> /n
+17:16:29.116 -> Incoming sensorstring complete!
+17:16:29.182 -> CO2 in ppm:1283  which is High
